@@ -7,6 +7,8 @@ We have Eating project
 Sleeping project
 Running project
 Watching movies project
-
+Eating project is finished
+running project is also finished
+sleeping project is not completed.
 
 
